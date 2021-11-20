@@ -1,7 +1,4 @@
 //
-//  responsivePageViewerApp.swift
-//  responsivePageViewer
-//
 //  Created by Max Kulakov on 20.11.2021.
 //
 
